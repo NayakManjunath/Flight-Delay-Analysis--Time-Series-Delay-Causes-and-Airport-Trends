@@ -1,0 +1,2 @@
+# Flight-Delay-Analysis--Time-Series-Delay-Causes-and-Airport-Trends
+This project analyzes U.S. airport-level monthly flight delay statistics using the BTS-style aggregated dataset that includes airline, airport, delay type, and time-based metrics. The notebook performs univariate, bivariate, and time-series EDA to identify patterns in on-time performance, major delay causes, and airport-level behavior.
